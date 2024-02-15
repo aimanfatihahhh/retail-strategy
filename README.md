@@ -15,8 +15,10 @@
   - [Data Preparation](#-data-preparation)
   - [Statistical Exploration](#-statistical-exploration)
   - [Association Rule Mining](#-association-rule-mining)
-  - [Decision Trees Analysis](#-decision-trees-analysis)
   - [Data Partitioning Strategy](#-data-partitioning-strategy)
+  - [Decision Trees Analysis with Entropy](#-decision-trees-analysis-with-entropy)
+  - [Decision Trees Analysis with Gini](#-decision-trees-analysis-with-gini)
+  - [Model Comparison](#-model-comparison)
   - [Conclusion and Key Insights](#-conclusion-and-key-insights)
   - [Strategic Recommendations](#-strategic-recommendations)
 
@@ -34,24 +36,32 @@
 <br><br>
 
 ## ⚙ Data Preparation:
-![Data Preparation](https://via.placeholder.com/150)
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Data%20Preparation%20and%20Exploration.png" width="400" alt="Data Preparation"/>
 *   Meticulously managed data entry and refinement process ensuring accuracy and integrity for analysis.
 
 ## 📊 Statistical Exploration:
-![Statistical Exploration](https://via.placeholder.com/150)
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Statistics%20Exploration.png" width="400" alt="Statistical Exploration"/>
 *   A thorough statistical investigation into the variables, revealing patterns and distributions essential for strategic decision-making.
 
 ## 🔍 Association Rule Mining:
-![Association Rule Mining](https://via.placeholder.com/150)
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Association%20Rules.png" width="400" alt="Association Rule Mining"/>
 *   Delving into the relationships between products to understand customer purchasing behaviors and preferences.
 
-## 🌳 Decision Trees Analysis:
-![Decision Trees](https://via.placeholder.com/150)
-*   Decision trees utilized for customer segmentation and prediction of product preferences.
-
 ## 🔢 Data Partitioning Strategy:
-![Data Partitioning](https://via.placeholder.com/150)
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Data%20Preparation%20and%20Exploration.png" width="400" alt="Data Partitioning"/>
 *   Strategic data division for model training and validation, adhering to robust methodologies for accurate model evaluation.
+
+## 🌳 Decision Trees Analysis with Entropy:
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Decision%20Tree%20-%20Entropy.png" width="400" alt="Decision Trees - with Entropy"/>
+*   Decision trees utilized for customer segmentation and prediction of product preferences with Entropy Impurity.
+
+## 🌳 Decision Trees Analysis with Gini:
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Decision%20Tree%20-%20Gini.png" width="400" alt="Decision Trees - with Gini"/>
+*   Decision trees utilized for customer segmentation and prediction of product preferences with Gini Impurity.
+
+## ⚖️ Model Comparison:
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Model%20Comparison.png" width="400" alt="Model Comparison"/>
+*   The model comparison assesses Decision Trees implemented with two distinct impurity measures: Entropy and Gini index.
 
 ## 📈 Conclusion and Key Insights:
 *   [Customer Segmentation](#-customer-segmentation-through-decision-tree-analysis): Identified distinct purchasing patterns enabling targeted marketing.
