@@ -76,4 +76,4 @@
 
 ---
 
-👉 _For more insights and detailed analysis, please consider following my [GitHub](https://www.github.com/caesarmario) and [Linktree](https://linktr.ee/caesarmario_) profiles._
+👉 _For more insights and detailed analysis, please consider following my [GitHub](https://www.github.com/aimanfatihahhh) and [LinkedIn](linkedin.com/in/aimanfatihahh) profiles._
