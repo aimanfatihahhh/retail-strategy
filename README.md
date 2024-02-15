@@ -48,7 +48,7 @@
 *   Delving into the relationships between products to understand customer purchasing behaviors and preferences.
 
 ## 🔢 Data Partitioning Strategy:
-<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Data%20Preparation%20and%20Exploration.png" width="400" alt="Data Partitioning"/>
+<img src="https://github.com/aimanfatihahhh/retail-strategy/blob/main/Screenshots/Decision%20Tree%20-%20Data%20Partition.png" width="400" alt="Data Partitioning"/>
 *   Strategic data division for model training and validation, adhering to robust methodologies for accurate model evaluation.
 
 ## 🌳 Decision Trees Analysis with Entropy:
