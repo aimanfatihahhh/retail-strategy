@@ -10,29 +10,29 @@ Transaction Records: Includes date, time, customer ID, product ID, quantity, and
 
 **TABLE OF CONTENT**
 
-[**DATA PREPARATION AND EXPLORATION 3**](#_9zko1uv5ehik)
+[**DATA PREPARATION AND EXPLORATION**](#_9zko1uv5ehik)
 
-[STATISTISTICS EXPLORATION 5](#_rfqx2zxxqvh7)
+[STATISTISTICS EXPLORATION](#_rfqx2zxxqvh7)
 
-[ASSOCIATION RULES 9](#_46cqkoyc8eg6)
+[ASSOCIATION RULES](#_46cqkoyc8eg6)
 
-[**DECISION TREE: 17**](#_9d0cnhhxau37)
+[**DECISION TREE**](#_9d0cnhhxau37)
 
-[DATA PARTITION: 17](#_7a9falppnvau)
+[DATA PARTITION](#_7a9falppnvau)
 
-[Decision Tree (with Ordinal Target Cretiration as Entropy): 20](#_1nkt29tw4vz8)
+[Decision Tree (with Ordinal Target Cretiration as Entropy)](#_1nkt29tw4vz8)
 
-[Decision Tree (with Ordinal Target Cretiration as Gini): 22](#_1c92eqsc1w4g)
+[Decision Tree (with Ordinal Target Cretiration as Gini)](#_1c92eqsc1w4g)
 
-[Model Comparison 23](#_g1dy6sfdtoa5)
+[Model Comparison](#_g1dy6sfdtoa5)
 
-[**CONCLUSION 25**](#_6k2lclolbs0t)
+[**CONCLUSION**](#_6k2lclolbs0t)
 
-[Key Insights: 25](#_shv184m2nh9u)
+[Key Insights](#_shv184m2nh9u)
 
-[Customer Segmentation through Decision Tree Analysis: 25](#_k68xnoumsazv)
+[Customer Segmentation through Decision Tree Analysis](#_k68xnoumsazv)
 
-[Strategic Recommendations: 25](#_jrp8bonwxfj)
+[Strategic Recommendations](#_jrp8bonwxfj)
 
 ## **DATA PREPARATION AND EXPLORATION**
 
